@@ -1,0 +1,3 @@
+﻿  senderMessage.cpp
+C:\Users\chris\OneDrive\Documents\FINAL_CHRISTOPHERMIRELES_CIS351\sendMessage\senderMessage\senderMessage\senderMessage.cpp(58,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  senderMessage.vcxproj -> C:\Users\chris\OneDrive\Documents\FINAL_CHRISTOPHERMIRELES_CIS351\sendMessage\senderMessage\x64\Debug\senderMessage.exe
